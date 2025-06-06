@@ -188,6 +188,7 @@ Sentiment peaked at **0.79 in February 2025**, then fell to **0.56 in March**, a
 ## 📌 Conclusion
 
 This analysis presents an in-depth, data-driven understanding of Airbnb activity in NYC under shifting political, seasonal, and legal conditions. By combining rigorous visualizations with statistical backing, this project offers practical insights for stakeholders navigating the evolving short-term rental landscape. Notably, the majority of Airbnb demand is driven by small groups of one to two guests who frequently choose private rooms in host-present homes due to affordability and regulatory requirements. Local Law 18’s occupancy and host presence restrictions have reshaped the market by reducing unhosted entire home availability and encouraging growth in private room listings. While entire homes generate the highest revenue, private rooms enjoy higher guest satisfaction, reflecting the preferences of NYC’s predominantly solo and duo travelers. These findings provide valuable guidance for policymakers, hosts, and investors aiming to optimize strategies within this dynamic environment.
+
 ---
 
 ## 🧠 Future Work
